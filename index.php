@@ -7,6 +7,10 @@
   <title>Document</title>
 </head>
 <body>
-  <h2>Hello world</h2>
+  <h2>Mahasiswa</h2>
+  <ul>
+    <li>Indra Mahesa</li>
+    <li>Nita Oktapiani</li>
+  </ul>
 </body>
 </html>
