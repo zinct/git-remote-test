@@ -8,6 +8,5 @@
 </head>
 <body>
   <h2>Hello world</h2>
-  <p>ini paragraf</p>
 </body>
 </html>
